@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?${evanmorrisdev}/${evanmorrisdev})
+![Visitor Count!](https://profile-counter.glitch.me/evanmorrisdev/count.svg
