@@ -15,7 +15,7 @@
 **[Twitter](https://twitter.com/EvanJamesM)**
 
 ### Evan's GitHub Statistics
-![Evans's GitHub Statistics!](https://github-readme-stats.vercel.app/api?username=evanmorrisdev)
+![Evans's GitHub Statistics!](https://github-readme-stats.vercel.app/api?username=evanmorrisdev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanmorrisdev&theme=tokyonight)
 
 ### Visitor Count
