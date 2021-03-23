@@ -1,6 +1,8 @@
 ## Hello!
 **My name is Evan Morris! I am a Software Quality Assurance Engineer at Avanite Limited, based in Cheshire, England.**
+<br>
 **[LinkedIn](https://www.linkedin.com/in/morris-evan/)**
+<br>
 **[Twitter](https://twitter.com/EvanJamesM)**
 
 
