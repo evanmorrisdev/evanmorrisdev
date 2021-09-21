@@ -1,6 +1,6 @@
 Evan Morris
 
-Software Assurance Engineer at Avanite
+Software Assurance Engineer at Avanite <br>
 Technical highlights: <br>
 * JavaScript
 * HTML / CSS
