@@ -1,15 +1,10 @@
-## Hello!
-**My name is Evan Morris! I am a Software Quality Assurance Engineer at Avanite Limited, based in Cheshire, England.** <br>
+**Evan Morris
 
-**I am currently working towards becoming a Software Developer, at Code Nation's 12-week bootcamp, technical highlights;** <br>
+**Software Assurance Engineer at Avanite
+**Technical highlights:** <br>
 * JavaScript
 * HTML / CSS
 * React.js
-* Node.js
-* Express
-* MongoDB
-
-**If you want to contact me, the best way is to connect with me on LinkedIn, check the links below;** <br>
 
 **[LinkedIn](https://www.linkedin.com/in/morris-evan/)** <br>
 **[Twitter](https://twitter.com/EvanJamesM)**
