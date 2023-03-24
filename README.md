@@ -28,7 +28,7 @@
 - Currently working for Avanite Limited as a Quality Assurance Engineer and Junior Developer.
 
 ### Always improving as a dev!
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -38,5 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure"  alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CShar" alt="CSharp" width="40" height="40"/>&nbsp;
 </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evanmorrisdev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=evanmorrisdev&theme=dark&hide_border=true" />
+</div>
